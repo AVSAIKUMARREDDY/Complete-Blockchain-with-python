@@ -68,6 +68,9 @@ http://localhost:8002/chain
 for more details you can refer the video link https://youtu.be/I1hJeWZlOQQ
 
 
+all the above commands will work for linux and macOs. If you are a windows user kindly check im not sure.
+
+
 
 
 
