@@ -7,4 +7,4 @@ All kind of contributions are welcome. If the change you are suggesting is signi
 - The project is designed to be beginner friendly. There are some conscious trade-offs that I've made to keep it simple (as compared to a real-world blockchain project like Bitcoin which will involve a lot of intricacies).
 - The coding style is analogous to PEP-8. It's not strictly followed, but please do keep existing style in mind while writing code and as many comments as possible (so that it's easier for others to understand).
 
-Lastly, thanks for considering to contribute to the project. 
+Lastly, i wanna thanks to satwikkansal. I have taken some part of the code from him and added some functionalities on top of it like digital signature and cryptography concepts. This is his github profile you can visit https://github.com/satwikkansal.
