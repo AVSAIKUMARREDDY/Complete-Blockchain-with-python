@@ -1,8 +1,8 @@
 # Complete-Blockchain-with-python
 The description and demonstration of the project you can find here..https://youtu.be/I1hJeWZlOQQ
 
-infuture i will extend this project to \
-        1.real payent transaction along with keeping UTXO model. \
+in future i will extend this project to \
+        1.real payment transaction along with keeping UTXO model. \
         2.smart contracts. \
         3.central bank digital currency model. 
         
